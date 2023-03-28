@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@400;600;700&family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap");
+
+body {
+  font-family: "Cormorant Upright";
+  font-weight: 700;
+  color: #aaaaaa;
+  background-color: #040404;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-sizing: border-box;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+aside,
+nav,
+footer,
+header,
+section,
+main {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "gericht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp --task"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.28.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.3"
+  }
+}
