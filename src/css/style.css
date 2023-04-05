@@ -4,8 +4,8 @@
 }
 
 .buttons {
-  font-family: "Cormorant Upright";
-  font-weight: 700;
+  font-family: inherit;
+  font-weight: inherit;
   font-size: 16px;
   line-height: 28px;
   letter-spacing: 0.04em;
